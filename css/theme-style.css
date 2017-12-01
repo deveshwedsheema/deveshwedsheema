@@ -144,7 +144,7 @@ section.img-bg-2{
 	color:#FFF;
 }
 section.img-bg-3{
-	background:url(../img/bg-3.jpg) no-repeat;
+	background:url(../img/bg-3.JPG) no-repeat;
 	/*background-attachment:fixed;*/
 	background-size:cover;
 }
@@ -154,7 +154,7 @@ section.img-bg-4{
 	background-size:cover;
 }
 section.img-bg-5{
-	background:url(../img/bg-5.jpg) no-repeat;
+	background:url(../img/bg-5.JPG) no-repeat;
 	background-attachment:fixed;
 	background-size:cover;
 	background-position:center bottom;
@@ -207,7 +207,7 @@ section.img-bg-5{
 	3. Section - Home (banner)
 ================================================================== */
 section#home{
-	background:url(../img/bg-1.jpg) no-repeat;
+	background:url(../img/bg-1.JPG) no-repeat;
 	/*background-attachment:fixed;*/
 	background-size:cover;
 	text-align:center;
