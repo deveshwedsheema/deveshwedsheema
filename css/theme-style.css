@@ -148,6 +148,7 @@ section.img-bg-3{
 	background:url(../img/bg-3.JPG) no-repeat;
 	background-attachment:fixed;
 	background-size:cover;
+	min-height: 100%;
 }
 section.img-bg-4{
 	background:url(../img/bg-4.jpg) no-repeat;
