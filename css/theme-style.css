@@ -146,7 +146,7 @@ section.img-bg-2{
 }
 section.img-bg-3{
 	background:url(../img/bg-3.JPG) no-repeat;
-	/*background-attachment:fixed;*/
+	background-attachment:fixed;
 	background-size:cover;
 }
 section.img-bg-4{
