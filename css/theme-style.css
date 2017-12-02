@@ -209,7 +209,7 @@ section.img-bg-5{
 ================================================================== */
 section#home{
 	background:url(../img/bg-1.JPG) no-repeat;
-	/*background-attachment:fixed;*/
+	background-attachment:fixed;
 	background-size:cover;
 	text-align:center;
 	height:800px;
